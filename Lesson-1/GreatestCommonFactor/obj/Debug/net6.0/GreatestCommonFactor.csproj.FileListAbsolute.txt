@@ -1,0 +1,14 @@
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/bin/Debug/net6.0/GreatestCommonFactor.deps.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/bin/Debug/net6.0/GreatestCommonFactor.runtimeconfig.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/bin/Debug/net6.0/GreatestCommonFactor.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/bin/Debug/net6.0/ref/GreatestCommonFactor.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/bin/Debug/net6.0/GreatestCommonFactor.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/obj/Debug/net6.0/GreatestCommonFactor.csproj.AssemblyReference.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/obj/Debug/net6.0/GreatestCommonFactor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/obj/Debug/net6.0/GreatestCommonFactor.AssemblyInfoInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/obj/Debug/net6.0/GreatestCommonFactor.AssemblyInfo.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/obj/Debug/net6.0/GreatestCommonFactor.csproj.CoreCompileInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/obj/Debug/net6.0/GreatestCommonFactor.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/obj/Debug/net6.0/ref/GreatestCommonFactor.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/obj/Debug/net6.0/GreatestCommonFactor.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/GreatestCommonFactor/obj/Debug/net6.0/GreatestCommonFactor.genruntimeconfig.cache
