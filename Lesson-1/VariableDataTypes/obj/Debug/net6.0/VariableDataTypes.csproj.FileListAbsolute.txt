@@ -1,0 +1,14 @@
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/obj/Debug/net6.0/VariableDataTypes.csproj.AssemblyReference.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/obj/Debug/net6.0/VariableDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/obj/Debug/net6.0/VariableDataTypes.AssemblyInfoInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/obj/Debug/net6.0/VariableDataTypes.AssemblyInfo.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/obj/Debug/net6.0/VariableDataTypes.csproj.CoreCompileInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/bin/Debug/net6.0/VariableDataTypes.deps.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/bin/Debug/net6.0/VariableDataTypes.runtimeconfig.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/bin/Debug/net6.0/VariableDataTypes.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/bin/Debug/net6.0/ref/VariableDataTypes.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/bin/Debug/net6.0/VariableDataTypes.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/obj/Debug/net6.0/VariableDataTypes.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/obj/Debug/net6.0/ref/VariableDataTypes.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/obj/Debug/net6.0/VariableDataTypes.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/VariableDataTypes/obj/Debug/net6.0/VariableDataTypes.genruntimeconfig.cache

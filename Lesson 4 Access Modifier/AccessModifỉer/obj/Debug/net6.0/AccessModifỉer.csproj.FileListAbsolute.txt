@@ -1,0 +1,14 @@
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/bin/Debug/net6.0/AccessModifỉer.deps.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/bin/Debug/net6.0/AccessModifỉer.runtimeconfig.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/bin/Debug/net6.0/AccessModifỉer.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/bin/Debug/net6.0/ref/AccessModifỉer.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/bin/Debug/net6.0/AccessModifỉer.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/obj/Debug/net6.0/AccessModifỉer.csproj.AssemblyReference.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/obj/Debug/net6.0/AccessModifỉer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/obj/Debug/net6.0/AccessModifỉer.AssemblyInfoInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/obj/Debug/net6.0/AccessModifỉer.AssemblyInfo.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/obj/Debug/net6.0/AccessModifỉer.csproj.CoreCompileInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/obj/Debug/net6.0/AccessModifỉer.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/obj/Debug/net6.0/ref/AccessModifỉer.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/obj/Debug/net6.0/AccessModifỉer.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/AccessModifỉer/obj/Debug/net6.0/AccessModifỉer.genruntimeconfig.cache

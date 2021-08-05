@@ -1,0 +1,14 @@
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/obj/Debug/net6.0/StaticMethod.csproj.AssemblyReference.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/obj/Debug/net6.0/StaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/obj/Debug/net6.0/StaticMethod.AssemblyInfoInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/obj/Debug/net6.0/StaticMethod.AssemblyInfo.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/obj/Debug/net6.0/StaticMethod.csproj.CoreCompileInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/bin/Debug/net6.0/StaticMethod.deps.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/bin/Debug/net6.0/StaticMethod.runtimeconfig.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/bin/Debug/net6.0/StaticMethod.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/bin/Debug/net6.0/ref/StaticMethod.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/bin/Debug/net6.0/StaticMethod.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/obj/Debug/net6.0/StaticMethod.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/obj/Debug/net6.0/ref/StaticMethod.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/obj/Debug/net6.0/StaticMethod.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 4 Access Modifier/StaticMethod/obj/Debug/net6.0/StaticMethod.genruntimeconfig.cache

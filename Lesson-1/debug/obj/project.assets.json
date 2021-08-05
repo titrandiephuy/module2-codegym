@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/debug/debug.csproj",
+      "projectUniqueName": "/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/debug/debug.csproj",
       "projectName": "debug",
-      "projectPath": "/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/debug/debug.csproj",
+      "projectPath": "/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/debug/debug.csproj",
       "packagesPath": "/Users/titrandiephuy/.nuget/packages/",
-      "outputPath": "/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/debug/obj/",
+      "outputPath": "/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-1/debug/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/titrandiephuy/.nuget/NuGet/NuGet.Config"

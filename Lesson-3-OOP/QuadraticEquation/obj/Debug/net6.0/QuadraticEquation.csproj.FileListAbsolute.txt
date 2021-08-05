@@ -1,0 +1,14 @@
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/obj/Debug/net6.0/QuadraticEquation.csproj.AssemblyReference.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/obj/Debug/net6.0/QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/obj/Debug/net6.0/QuadraticEquation.AssemblyInfoInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/obj/Debug/net6.0/QuadraticEquation.AssemblyInfo.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/obj/Debug/net6.0/QuadraticEquation.csproj.CoreCompileInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/bin/Debug/net6.0/QuadraticEquation.deps.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/bin/Debug/net6.0/QuadraticEquation.runtimeconfig.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/bin/Debug/net6.0/QuadraticEquation.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/bin/Debug/net6.0/ref/QuadraticEquation.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/bin/Debug/net6.0/QuadraticEquation.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/obj/Debug/net6.0/QuadraticEquation.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/obj/Debug/net6.0/ref/QuadraticEquation.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/obj/Debug/net6.0/QuadraticEquation.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-3-OOP/QuadraticEquation/obj/Debug/net6.0/QuadraticEquation.genruntimeconfig.cache
