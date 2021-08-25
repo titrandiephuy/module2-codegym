@@ -1,0 +1,14 @@
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/bin/Debug/net6.0/GopMang.deps.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/bin/Debug/net6.0/GopMang.runtimeconfig.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/bin/Debug/net6.0/GopMang.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/bin/Debug/net6.0/ref/GopMang.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/bin/Debug/net6.0/GopMang.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/obj/Debug/net6.0/GopMang.csproj.AssemblyReference.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/obj/Debug/net6.0/GopMang.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/obj/Debug/net6.0/GopMang.AssemblyInfoInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/obj/Debug/net6.0/GopMang.AssemblyInfo.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/obj/Debug/net6.0/GopMang.csproj.CoreCompileInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/obj/Debug/net6.0/GopMang.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/obj/Debug/net6.0/ref/GopMang.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/obj/Debug/net6.0/GopMang.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson-2-Array/GopMang/obj/Debug/net6.0/GopMang.genruntimeconfig.cache

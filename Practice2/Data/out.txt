@@ -1,0 +1,2 @@
+Total even number in matrix : 19
+Total boi so cua 5 in matrix : 6

@@ -1,0 +1,16 @@
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/bin/Debug/net6.0/ClothingShop
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/bin/Debug/net6.0/ClothingShop.deps.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/bin/Debug/net6.0/ClothingShop.runtimeconfig.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/bin/Debug/net6.0/ClothingShop.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/bin/Debug/net6.0/ClothingShop.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/obj/Debug/net6.0/ClothingShop.csproj.AssemblyReference.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/obj/Debug/net6.0/ClothingShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/obj/Debug/net6.0/ClothingShop.AssemblyInfoInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/obj/Debug/net6.0/ClothingShop.AssemblyInfo.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/obj/Debug/net6.0/ClothingShop.ImplicitNamespaceImports.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/obj/Debug/net6.0/ClothingShop.csproj.CoreCompileInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/obj/Debug/net6.0/ClothingShop.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/obj/Debug/net6.0/refint/ClothingShop.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/obj/Debug/net6.0/ClothingShop.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/obj/Debug/net6.0/ClothingShop.genruntimeconfig.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/ClothingShop/obj/Debug/net6.0/ref/ClothingShop.dll

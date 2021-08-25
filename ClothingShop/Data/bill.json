@@ -1,0 +1,15 @@
+{
+    "Bill":[
+        {
+            "Date": "19/08/2021" ,
+            "Time": "19:21",
+            "Customer Name: ": "Nguyen Van A",
+            "Product": [
+                {
+                    "ID": "S01",
+                    "Name": ""
+                }
+            ]
+        }
+    ]
+}

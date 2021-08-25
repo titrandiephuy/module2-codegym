@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A923EC60-4DD7-4EC2-8780-D3435468BDB0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Arrayl/obj/Debug/net6.0/Arrayl.ImplicitNamespaceImports.cs">
+    <Files>
+      <File FileName="Arrayl/obj/Debug/net6.0/Arrayl.ImplicitNamespaceImports.cs" Line="10" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arrayl" expanded="True">
+            <Node name="Arrayl" expanded="True">
+              <Node name="A.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Arrayl PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

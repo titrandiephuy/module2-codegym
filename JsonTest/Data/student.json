@@ -1,0 +1,44 @@
+{
+    "students": [
+        {
+            "name": "John",
+            "gender": "male",
+            "age": 18,
+            "scores":[
+                {
+                    "name": "Math",
+                    "value": 9.5
+                },
+                {
+                    "name": "Physics",
+                    "value": 7.0
+                },
+                {
+                    "name": "English",
+                    "value": 8.5
+                }
+            ]
+
+        },
+        {
+            "name": "Catherine",
+            "gender": "female",
+            "age": 18,
+            "scores":[
+                {
+                    "name": "Math",
+                    "value": 7.0
+                },
+                {
+                    "name": "Physics",
+                    "value": 6.3
+                },
+                {
+                    "name": "English",
+                    "value": 4.5
+                }
+            ]
+
+        }
+    ]
+}

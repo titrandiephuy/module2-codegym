@@ -1,0 +1,17 @@
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/obj/Debug/net6.0/JsonTest.csproj.AssemblyReference.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/obj/Debug/net6.0/JsonTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/obj/Debug/net6.0/JsonTest.AssemblyInfoInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/obj/Debug/net6.0/JsonTest.AssemblyInfo.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/obj/Debug/net6.0/JsonTest.ImplicitNamespaceImports.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/obj/Debug/net6.0/JsonTest.csproj.CoreCompileInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/bin/Debug/net6.0/JsonTest
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/bin/Debug/net6.0/JsonTest.deps.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/bin/Debug/net6.0/JsonTest.runtimeconfig.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/bin/Debug/net6.0/JsonTest.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/bin/Debug/net6.0/JsonTest.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/obj/Debug/net6.0/JsonTest.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/obj/Debug/net6.0/refint/JsonTest.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/obj/Debug/net6.0/JsonTest.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/obj/Debug/net6.0/JsonTest.genruntimeconfig.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/obj/Debug/net6.0/ref/JsonTest.dll

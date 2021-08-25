@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bcC8MemeEIs6Sozrdi4QGxj8LbifYRg3alM3IAWmxZ4khKd681EeOR4LFQhRPt2upEKFKYiU3J+NOeEExIOaDA==",
+  "success": true,
+  "projectFilePath": "/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/JsonTest/JsonTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/titrandiephuy/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

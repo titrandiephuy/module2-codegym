@@ -1,0 +1,14 @@
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/bin/Debug/net6.0/Circle&Cylinder.deps.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/bin/Debug/net6.0/Circle&Cylinder.runtimeconfig.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/bin/Debug/net6.0/Circle&Cylinder.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/bin/Debug/net6.0/ref/Circle&Cylinder.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/bin/Debug/net6.0/Circle&Cylinder.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/obj/Debug/net6.0/Circle&Cylinder.csproj.AssemblyReference.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/obj/Debug/net6.0/Circle&Cylinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/obj/Debug/net6.0/Circle&Cylinder.AssemblyInfoInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/obj/Debug/net6.0/Circle&Cylinder.AssemblyInfo.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/obj/Debug/net6.0/Circle&Cylinder.csproj.CoreCompileInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/obj/Debug/net6.0/Circle&Cylinder.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/obj/Debug/net6.0/ref/Circle&Cylinder.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/obj/Debug/net6.0/Circle&Cylinder.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Circle&Cylinder/obj/Debug/net6.0/Circle&Cylinder.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/bin/Debug/net6.0/Shape.deps.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/bin/Debug/net6.0/Shape.runtimeconfig.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/bin/Debug/net6.0/Shape.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/bin/Debug/net6.0/ref/Shape.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/bin/Debug/net6.0/Shape.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/obj/Debug/net6.0/Shape.csproj.AssemblyReference.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/obj/Debug/net6.0/Shape.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/obj/Debug/net6.0/Shape.AssemblyInfoInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/obj/Debug/net6.0/Shape.AssemblyInfo.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/obj/Debug/net6.0/Shape.csproj.CoreCompileInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/obj/Debug/net6.0/Shape.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/obj/Debug/net6.0/ref/Shape.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/obj/Debug/net6.0/Shape.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Lesson 5 Inheritance/Shape/obj/Debug/net6.0/Shape.genruntimeconfig.cache

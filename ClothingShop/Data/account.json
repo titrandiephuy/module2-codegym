@@ -1,0 +1,12 @@
+{
+    "account":[
+        {
+            "usernames": "admin",
+            "password": "1234"
+        },
+        {
+            "usernames": "client",
+            "password": "4321"
+        }
+    ]
+}

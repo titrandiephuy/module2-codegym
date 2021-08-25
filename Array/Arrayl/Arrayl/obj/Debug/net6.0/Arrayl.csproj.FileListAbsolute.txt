@@ -1,0 +1,5 @@
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Array/Arrayl/Arrayl/obj/Debug/net6.0/Arrayl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Array/Arrayl/Arrayl/obj/Debug/net6.0/Arrayl.AssemblyInfoInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Array/Arrayl/Arrayl/obj/Debug/net6.0/Arrayl.AssemblyInfo.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Array/Arrayl/Arrayl/obj/Debug/net6.0/Arrayl.ImplicitNamespaceImports.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/Module 2 - Exercise/Array/Arrayl/Arrayl/obj/Debug/net6.0/Arrayl.csproj.CoreCompileInputs.cache
